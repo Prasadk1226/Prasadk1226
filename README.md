@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prasadk1226&icon=2&color=0)](https://visicount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Prasadk1226&icon=2&color=0)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
